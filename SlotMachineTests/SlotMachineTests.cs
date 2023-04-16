@@ -1,5 +1,4 @@
 using SlotMachineHandler;
-using SlotMachineHandlerTests;
 
 namespace SlotMachineTests
 {
@@ -7,7 +6,7 @@ namespace SlotMachineTests
     {
         public int[,] InitialMachine;
         public int[,] FinalMachine;
-        public int row,column,colorToExplode;
+        public int row, column, colorToExplode;
     }
     public class Tests
     {
@@ -93,15 +92,16 @@ namespace SlotMachineTests
             column = 1,
             colorToExplode = 1
         };
-        private static IEnumerable<MachineToTest> _machines { 
-            
+        private static IEnumerable<MachineToTest> _machines
+        {
+
             get
             {
                 yield return Machine1;
                 yield return Machine2;
                 yield return Machine3;
                 yield return Machine4;
-            } 
+            }
         }
 
         [SetUp]

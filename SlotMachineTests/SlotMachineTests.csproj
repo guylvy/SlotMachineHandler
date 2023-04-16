@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SlotMachineHandler\SlotMachineHandler.csproj" />
+    <ProjectReference Include="..\SlotMachineHandler.csproj" />
   </ItemGroup>
 
 </Project>

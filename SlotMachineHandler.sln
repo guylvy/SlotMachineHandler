@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineHandler", "SlotMachineHandler.csproj", "{AA150968-4F29-4B3D-B7F4-6DADBFEA8C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineHandlerTests", "..\SlotMachineHandlerTests\SlotMachineHandlerTests.csproj", "{79E4C25D-BF20-4E08-9A45-F27C305C24FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineTests", "SlotMachineTests\SlotMachineTests.csproj", "{7D45E9B1-C470-4280-8F94-986F273F6EA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{AA150968-4F29-4B3D-B7F4-6DADBFEA8C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA150968-4F29-4B3D-B7F4-6DADBFEA8C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA150968-4F29-4B3D-B7F4-6DADBFEA8C2F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{79E4C25D-BF20-4E08-9A45-F27C305C24FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E4C25D-BF20-4E08-9A45-F27C305C24FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79E4C25D-BF20-4E08-9A45-F27C305C24FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79E4C25D-BF20-4E08-9A45-F27C305C24FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D45E9B1-C470-4280-8F94-986F273F6EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D45E9B1-C470-4280-8F94-986F273F6EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D45E9B1-C470-4280-8F94-986F273F6EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D45E9B1-C470-4280-8F94-986F273F6EA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
